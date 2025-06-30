@@ -91,23 +91,7 @@ The dataset contains information about Titanic passengers including age, sex, ti
 
 ---
 
-## 💬 Interview Preparation: Sample Questions Covered
 
-- What is EDA and its importance?
-- How do you visualize correlation?
-- Difference between heatmap and pairplot?
-- How to handle skewed data and multicollinearity?
-- Explain univariate, bivariate, and multivariate analysis.
 
----
-
-## 🙌 Acknowledgement:
-This task was completed as part of the **Data Analyst Internship Program – Task 5 (EDA)**.  
-Dataset © Kaggle – Titanic: Machine Learning from Disaster.
-
----
-
-## 🔗 Submission Link:
-[Submit Your Task Here](https://forms.gle/dF1EVUnqz2rQr2xu8)
 
 ---
